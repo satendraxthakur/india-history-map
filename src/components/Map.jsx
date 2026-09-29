@@ -1,7 +1,7 @@
 import { MapContainer, TileLayer } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 import MonumentMarker from './MonumentMarker'
-import delhiMonuments from '../data/delhi/monuments'
+import delhiMonuments from '../data/Delhi/monuments'
 
 function Map() {
   return (
